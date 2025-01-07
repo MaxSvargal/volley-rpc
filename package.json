@@ -1,0 +1,11 @@
+{
+	"name": "@platform/rpc",
+	"author": "Max Vierd",
+	"description": "RPC Client and Server",
+	"version": "1.0.0",
+	"license": "MIT",
+	"type": "module",
+	"devDependencies": {
+		"vitest": "^2.1.8"
+	}
+}
