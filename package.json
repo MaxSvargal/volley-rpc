@@ -1,11 +1,9 @@
 {
-	"name": "@platform/rpc",
+	"name": "volley-rpc",
 	"author": "Max Vierd",
-	"description": "RPC Client and Server",
+	"description": "TypeScript RPC Client and Server with batching",
 	"version": "1.0.0",
 	"license": "MIT",
 	"type": "module",
-	"devDependencies": {
-		"vitest": "^2.1.8"
-	}
+	"devDependencies": {}
 }
